@@ -28,7 +28,6 @@ Follow @riches_creation for quality artistic contents.
 
   |
   
-  
   V
 
 
