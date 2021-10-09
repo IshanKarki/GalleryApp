@@ -139,7 +139,7 @@ class _MyGalleryAppState extends State<MyGalleryApp> {
               child: Container(
                 padding: const EdgeInsets.symmetric(
                   horizontal: 20,
-                  vertical: 30,
+                  vertical: 20,
                 ),
                 decoration: const BoxDecoration(
                   color: Colors.white,
