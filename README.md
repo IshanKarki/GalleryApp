@@ -8,6 +8,13 @@ This is a simple UI gallery app.
 
 
 
+Note: These photos are mostly photoshops. All of them are my arts for more details about arts checkout this on Instagram,
+
+https://www.instagram.com/riches_creation/
+
+Follow @riches_creation for quality artistic contents.
+
+
 
 "First Look" 
 
