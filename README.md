@@ -27,7 +27,6 @@ Follow @riches_creation for quality artistic contents.
 "Updated UI"
 
   |
-  
   V
 
 
