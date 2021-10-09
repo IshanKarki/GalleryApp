@@ -26,6 +26,8 @@ Follow @riches_creation for quality artistic contents.
 
 "Updated UI"
 
+  |
+  V
 
 
 ![Screenshot_1633798741](https://user-images.githubusercontent.com/44771554/136667566-c2409d1f-3a76-437e-8a4b-7e771cb3dc35.png)
