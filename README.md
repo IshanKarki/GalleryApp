@@ -4,6 +4,7 @@ This is a simple UI gallery app.
 "Updated DEMO"
 
 
+![DEMO_Trim](https://user-images.githubusercontent.com/44771554/136668036-d93ee96f-e764-4377-b237-9be9f5b7cb0c.gif)
 
 
 
