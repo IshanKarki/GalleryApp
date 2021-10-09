@@ -10,7 +10,7 @@ This is a simple UI gallery app.
 ![ss](https://user-images.githubusercontent.com/44771554/136597458-9b381eb2-7d38-46f4-b192-e80d8f806383.jpg)
 
 
-"Updates UI"
+"Updated UI"
 
 
 
