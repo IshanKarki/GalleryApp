@@ -1,5 +1,5 @@
 # GalleryApp
-This is a simple UI gallery app.
+This is a simple UI gallery app trying to portray the interface designs as more of a social familiar platform like Instagram.
 
 "Updated DEMO"
 
