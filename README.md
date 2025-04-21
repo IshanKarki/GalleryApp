@@ -1,5 +1,5 @@
 # GalleryApp
-This is a simple UI gallery app portraying the interface designs of a social familiar platform like **Instagram**.
+This is a simple UI gallery app portraying the interface designs of a social-media platform like **Instagram**.
 
 The master branch contains the code this branch is just for the first-looks and the interface design of the flutter made mobile application.
 
