@@ -12,7 +12,7 @@ Note: These photos are mostly photoshops. All of them are my arts for more detai
 
 https://www.instagram.com/_istudios/
 
-Follow @riches_creation for quality artistic contents.
+Follow @_istudios for quality artistic contents.
 
 
 
